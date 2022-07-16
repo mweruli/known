@@ -25,16 +25,16 @@ const Portfolio = () => {
                         <img src="img/thumbs/1-1.jpg" alt="" />
                         <div
                           className="main"
-                          data-img-url="img/portfolio/1.jpg"
+                          data-img-url="img/portfolio/known.jpg"
                         />
                       </div>
                       <div className="details">
-                        <h3>Sweet Fruit</h3>
-                        <span>Vimeo</span>
+                        <h3>Known Mart</h3>
+                        <span>Website</span>
                       </div>
                       <a
                         className="edrea_tm_full_link popup-vimeo"
-                        href="//player.vimeo.com/video/337293658?autoplay=1"
+                        href="https://littlebaby.co.ke/" target="_blank"
                       />
                     </div>
                   </SwiperSlide>
@@ -44,16 +44,16 @@ const Portfolio = () => {
                         <img src="img/thumbs/1-1.jpg" alt="" />
                         <div
                           className="main"
-                          data-img-url="img/portfolio/2.jpg"
+                          data-img-url="img/portfolio/curex.jpg"
                         />
                       </div>
                       <div className="details">
-                        <h3>Good Present</h3>
-                        <span>Youtube</span>
+                        <h3>Curex</h3>
+                        <span>Facebook</span>
                       </div>
                       <a
                         className="edrea_tm_full_link popup-youtube"
-                        href="//www.youtube.com/embed/7e90gBu4pas?autoplay=1"
+                        href="https://www.facebook.com/" target="_blank"
                       />
                     </div>
                   </SwiperSlide>
@@ -63,16 +63,16 @@ const Portfolio = () => {
                         <img src="img/thumbs/1-1.jpg" alt="" />
                         <div
                           className="main"
-                          data-img-url="img/portfolio/3.jpg"
+                          data-img-url="img/portfolio/padding.jpg"
                         />
                       </div>
                       <div className="details">
-                        <h3>Mockup Cream</h3>
-                        <span>Soundcloud</span>
+                        <h3>Padding</h3>
+                        <span>instagram</span>
                       </div>
                       <a
                         className="edrea_tm_full_link soundcloude_link mfp-iframe audio"
-                        href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/471954807&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+                        href="https://www.instagram.com/"
                       />
                     </div>
                   </SwiperSlide>
@@ -82,12 +82,12 @@ const Portfolio = () => {
                         <img src="img/thumbs/1-1.jpg" alt="" />
                         <div
                           className="main"
-                          data-img-url="img/portfolio/4.jpg"
+                          data-img-url="img/portfolio/hazinisha.jpg"
                         />
                       </div>
                       <div className="details">
-                        <h3>Delicious Apple</h3>
-                        <span>Detail</span>
+                        <h3>Hazinisha</h3>
+                        <span>Website</span>
                       </div>
                       <a
                         className="edrea_tm_full_link portfolio_popup"
@@ -102,7 +102,7 @@ const Portfolio = () => {
                         <img src="img/thumbs/1-1.jpg" alt="" />
                         <div
                           className="main"
-                          data-img-url="img/portfolio/5.jpg"
+                          data-img-url="img/portfolio/known.jpg"
                         />
                       </div>
                       <div className="details">
@@ -111,7 +111,7 @@ const Portfolio = () => {
                       </div>
                       <a
                         className="edrea_tm_full_link zoom"
-                        href="img/portfolio/5.jpg"
+                        href="img/portfolio/curex.jpg"
                       />
                     </div>
                   </SwiperSlide>
@@ -121,7 +121,7 @@ const Portfolio = () => {
                         <img src="img/thumbs/1-1.jpg" alt="" />
                         <div
                           className="main"
-                          data-img-url="img/portfolio/6.jpg"
+                          data-img-url="img/portfolio/hazinisha.jpg"
                         />
                       </div>
                       <div className="details">
